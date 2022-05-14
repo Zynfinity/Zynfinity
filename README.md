@@ -18,7 +18,7 @@
 
 ---
 
-<img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Zynfinity&repo=Zynfinty&countColorcountColor&countColor=%237B1E7B"/>
 <br/>
 
 ---
