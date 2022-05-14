@@ -26,5 +26,3 @@ I will learn several programming languages in the future
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zynfinity&repo=TelegramBot-js&show_owner=true)](https://github.com/Zynfinity/TelegramBot-js)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zynfinity&repo=zx-api&show_owner=true)](https://github.com/Zynfinity/zx-api)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zynfinity&repo=Scrapper&show_owner=true)](https://github.com/Zynfinity/Scrapper)
-
-⭐️ From [@anandmainali](https://github.com/anandmainali)
