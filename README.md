@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Fajar Ihsana](https://ihsanafajar.blogspot.com/)
+### Hi there 👋 I'm [Fajar Ihsana](https://zynfinity.github.io)
 
 
 <img src="https://komarev.com/ghpvc/?username=Zynfinity" alt="Zynfinity" />
