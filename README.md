@@ -16,10 +16,21 @@ I will learn several programming languages in the future
 </p>
 </div>
 
+### Roadmap.sh
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66ad86e819ba71f57b313243?variant=dark&roadmaps=react%2Cfrontend" alt="roadmap.sh"/></a>
 
 ### Github Stats
-
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zynfinity&show_icons=true&count_private=true&&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/Zynfinity)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Zynfinity&show_icons=true&count_private=true&theme=github_dark_dimmed"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Zynfinity&show_icons=true&count_private=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zynfinity&show_icons=true&count_private=true" />
+</picture>
 
 ### Github Repos
 
