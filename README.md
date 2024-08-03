@@ -19,7 +19,7 @@ I will learn several programming languages in the future
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zynfinity&show_icons=true&count_private=true)](https://github.com/Zynfinity)
+[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zynfinity&show_icons=true&count_private=true&&theme=github_dark_dimmed)](https://github.com/Zynfinity)
 
 ### Github Repos
 
