@@ -17,7 +17,17 @@ I will learn several programming languages in the future
 </div>
 
 ### Roadmap.sh
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66ad86e819ba71f57b313243?variant=dark&roadmaps=react%2Cfrontend" alt="roadmap.sh"/></a>
+<picture>
+  <source
+    srcset="https://roadmap.sh/card/wide/66ad86e819ba71f57b313243?variant=dark&roadmaps=react%2Cfrontend"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://roadmap.sh/card/wide/66ad86e819ba71f57b313243?variant=light&roadmaps=react%2Cfrontend"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66ad86e819ba71f57b313243?variant=dark&roadmaps=react%2Cfrontend" alt="roadmap.sh"/></a>
+</picture>
 
 ### Github Stats
 <picture>
